@@ -1,0 +1,9 @@
+body {
+    test-align:center;
+    font-family:Arial;
+    margin-top:100;
+}
+button {
+    padding:10px 20px;
+    margin:10px;
+}
